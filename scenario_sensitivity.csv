@@ -1,0 +1,7 @@
+Scenario,Predicted churn probability
+Typical baseline profile,0.03
+Add complaint flag = 1,0.81
+Switch status to category 2,0.5166666666666667
+Drop seconds of use to Q1,0.15
+Drop frequency of use to Q1,0.14
+Complaint + status 2 + low frequency,0.97
